@@ -1,0 +1,6 @@
+f1   f2          f3 f4f5           f6     f7        f8           f9                  f10          
+001  Male        10 Y Mobile              Home      Sydney       Australia           001001001    
+002  Female      9  N Landline     1                Paris        France              002002002    
+003  Female      8  Y Landline            Work      London       England             003003003    
+004  Male        7  N Mobile       1      Home      New York     USA                 004004004    
+005  Female      6  Y Mobile       1      Home      Tokyo        Japan                            
