@@ -16,9 +16,6 @@ def main():
     with open(spec_path, 'r') as specFile:
         spec = json.load(specFile)
 
-    # Path for the input and output files
-    dir_path = dir_path + "/DataFiles"
-
     # Ensuring that both the fixed width file and delimited file have the same encoding
     encoding = "utf-8"
 
