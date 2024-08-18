@@ -16,7 +16,7 @@ I have written the code in an Apache Spark environment using Python. The 4 files
 
 faker Python library will need to be installed for generating the sample data.
 
-Change directory to the files' path, and trigger the code using the below command:
+Change directory to the code files' path, and trigger the code using the below command:
 
 python main.py
 
